@@ -9,9 +9,13 @@ The goal of the project is to explore fraudulent transactions, monitor risk indi
 ## Tools Used
 
 Excel
+
 Power BI
+
 Pivot Tables
+
 Data Visualization
+
 Data Cleaning
 
 ## Dataset Features
@@ -37,12 +41,17 @@ is_fraud: Label indicating if the transaction is fraudulent (1) or legitimate (0
 ## Key Insights
 
 Certain transaction types showed higher fraud rates
+
 High device/IP risk scores were strongly associated with fraudulent transactions
+
 Specific countries and merchant categories had increased fraud activity
 
 ## Files Included
 
 Fraud Dataset.csv → Original dataset
+
 Fraud Analysis Using Excel.xlsx → Excel file 
+
 Fraud Analysis Using Power BI.pbix → Power BI dashboard
+
 .png files → Dashboard screenshots
