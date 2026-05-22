@@ -6,6 +6,8 @@ This project analyzes financial transaction data to identify fraud patterns and 
 
 The goal of the project is to explore fraudulent transactions, monitor risk indicators, and visualize important business metrics through an interactive dashboard.
 
+Kaggle Link: https://www.kaggle.com/datasets/umitka/synthetic-financial-fraud-dataset/data
+
 ## Tools Used
 
 Excel
